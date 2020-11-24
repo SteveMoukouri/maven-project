@@ -3,9 +3,10 @@ package com.example;
 
 public class Greeter {
 
-  
+  /**
+ * Constructeur.
+ */
   public Greeter() {
-
   }
   
   /**
